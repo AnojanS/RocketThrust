@@ -12,3 +12,5 @@ Game consists of C# classes, basic UI, Unity components (rigid body, particle sy
 
 ## Demo
 <a href="https://imgflip.com/gif/3061hh"><img src="https://i.imgflip.com/3061hh.gif" width="500" height="250" /></a>
+<a href="https://imgflip.com/gif/3063wt"><img src="https://i.imgflip.com/3063wt.gif" width="500" height="250" /></a>
+<a href="https://imgflip.com/gif/3063zq"><img src="https://i.imgflip.com/3063zq.gif" width="500" height="250" /></a>
