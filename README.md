@@ -11,5 +11,4 @@ Game consists of C# classes, basic UI, Unity components (rigid body, particle sy
 4. Hit Play button 
 
 ## Demo
-
-
+![](Level1.gif)
